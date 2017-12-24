@@ -257,7 +257,11 @@ anchor: 정보의 바다에 닻을 내린다. 링크태그!!!
 
 ​	static web hosting이다 rails 같은 경우 dynamic webhosting 필요!
 
- 	개발중인 사이트 주소 : https://genieyoo.github.io/code-night3rd/
+​	[진행중인 github pages 주소](https://genieyoo.github.io/code-night3rd/)
+
+
+
+
 
 => 타 웹 호스팅 services
 
